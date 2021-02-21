@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/Interactive-Pricing-Component-FrontendMentor/static/js/main.7b01e2c1.chunk.js",
+    "main.js.map": "/Interactive-Pricing-Component-FrontendMentor/static/js/main.7b01e2c1.chunk.js.map",
+    "runtime-main.js": "/Interactive-Pricing-Component-FrontendMentor/static/js/runtime-main.244adffc.js",
+    "runtime-main.js.map": "/Interactive-Pricing-Component-FrontendMentor/static/js/runtime-main.244adffc.js.map",
+    "static/js/2.920326ca.chunk.js": "/Interactive-Pricing-Component-FrontendMentor/static/js/2.920326ca.chunk.js",
+    "static/js/2.920326ca.chunk.js.map": "/Interactive-Pricing-Component-FrontendMentor/static/js/2.920326ca.chunk.js.map",
+    "index.html": "/Interactive-Pricing-Component-FrontendMentor/index.html",
+    "static/js/2.920326ca.chunk.js.LICENSE.txt": "/Interactive-Pricing-Component-FrontendMentor/static/js/2.920326ca.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern.76d3fa7d.svg": "/Interactive-Pricing-Component-FrontendMentor/static/media/bg-pattern.76d3fa7d.svg",
+    "static/media/icon-check.83c38a48.svg": "/Interactive-Pricing-Component-FrontendMentor/static/media/icon-check.83c38a48.svg",
+    "static/media/icon-slider.cbca35e0.svg": "/Interactive-Pricing-Component-FrontendMentor/static/media/icon-slider.cbca35e0.svg",
+    "static/media/pattern-circles.9f6ed14b.svg": "/Interactive-Pricing-Component-FrontendMentor/static/media/pattern-circles.9f6ed14b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.244adffc.js",
+    "static/js/2.920326ca.chunk.js",
+    "static/js/main.7b01e2c1.chunk.js"
+  ]
+}
